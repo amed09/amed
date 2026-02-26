@@ -1,0 +1,67 @@
+Fetched: Shahan Living
+Fetched: Shahan Manager
+Fetched: Shahan Properties
+Fetched: Property Manager
+Fetched: Cavalli Tower - Luxury Living
+FINAL_JSON=[
+  {
+    "title": "Shahan Living",
+    "description": "No description available.",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "image": "https://play-lh.googleusercontent.com/pr9-HqdqbD6n-81aIlUm7mSSY0ea_7RUOTT5d8Yx4LT4xBBx4AwZnhP80EKPhTu5B2rUtQ8FM8e_rQoTF_d8aAY",
+    "github": "#",
+    "demo": "https://play.google.com/store/apps/details?id=com.shahanpropertymanagement.shahanpropertymanagement"
+  },
+  {
+    "title": "Shahan Manager",
+    "description": "No description available.",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "image": "https://play-lh.googleusercontent.com/oHgVJWniH_MB4XZebg9bfdTM2qOgKR_YJ0TepTuRSllngeBaJVzTNUftH1w_aNwakljbTdRhs34_ZDmKqenJ",
+    "github": "#",
+    "demo": "https://play.google.com/store/apps/details?id=com.shahanmanager.shahanmanager"
+  },
+  {
+    "title": "Shahan Properties",
+    "description": "No description available.",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "image": "https://play-lh.googleusercontent.com/DLuoKY29JUVjV8p5D8sH_GLgeNdQ2cAaJ0kuQPEotaOEuNiiWxd6rCOxamVtMeDXJNo",
+    "github": "#",
+    "demo": "https://play.google.com/store/apps/details?id=com.ShahanProperties.app"
+  },
+  {
+    "title": "Property Manager",
+    "description": "No description available.",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "image": "https://play-lh.googleusercontent.com/5swK4CTv5XmAJgTOCWycwYPMzD6NyXSDXKVwmWmwmN3JneZ43qNUQjRwfgJ8D7uIwUflAOvIBp0Lg2TXeTPYuw",
+    "github": "#",
+    "demo": "https://play.google.com/store/apps/details?id=com.shahan.admin_property_management"
+  },
+  {
+    "title": "Cavalli Tower - Luxury Living",
+    "description": "No description available.",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "image": "https://play-lh.googleusercontent.com/O4X6naLbgTOvs4RIq6kzoYx4qhuEtClvB4EIjO4lPhJfBXky-wXOYTpUqu1cKV3YBttg",
+    "github": "#",
+    "demo": "https://play.google.com/store/apps/details?id=com.cavallitower.luxuryhomes"
+  }
+]

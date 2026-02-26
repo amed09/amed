@@ -1,0 +1,14 @@
+Fetched: ConnectGate
+FINAL_JSON=[
+  {
+    "title": "ConnectGate",
+    "description": "No description available.",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "image": "https://play-lh.googleusercontent.com/gB05T34ZxUrvL45NPbDOtz3wuSWhA_Xx9IAw7PscW-GYQE9cz_T3dKKQ9um5zBdbohA",
+    "playStore": "https://play.google.com/store/apps/details?id=com.ConnectGate.android"
+  }
+]
