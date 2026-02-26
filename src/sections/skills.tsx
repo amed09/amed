@@ -18,10 +18,9 @@ const skills = [
   {
     category: "Backend & Database",
     items: [
-      { name: "Firebase", level: 75 },
-      { name: "Firestore", level: 70 },
+      { name: "Firebase", level: 80 },
       { name: "Supabase", level: 60 },
-      { name: "Laravel API", level: 65 },
+      { name: "Rest API", level: 100 },
     ],
   },
   {
