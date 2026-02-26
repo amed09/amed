@@ -23,9 +23,8 @@ export function Navbar() {
   return (
     <motion.nav
       style={{
-        backgroundColor: `rgba(${
-          theme === "dark" ? "15, 23, 42" : "255, 255, 255"
-        }, ${bgOpacity})`,
+        backgroundColor: `rgba(${theme === "dark" ? "15, 23, 42" : "255, 255, 255"
+          }, ${bgOpacity})`,
         backdropFilter: `blur(${backdropBlur}px)`,
       }}
       className="fixed top-0 left-0 right-0 z-50 border-b border-transparent transition-colors duration-300"
