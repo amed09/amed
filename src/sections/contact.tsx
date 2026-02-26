@@ -50,8 +50,7 @@ export function Contact() {
               Contact Information
             </h3>
             <p className="mb-8 text-lg text-slate-600 dark:text-slate-300">
-              I'm currently available for freelance work or full-time
-              opportunities. If you have a project that needs some creative
+              I'm currently available for freelance work , If you have a project that needs some creative
               touch, feel free to contact me!
             </p>
 
@@ -65,7 +64,7 @@ export function Contact() {
                     Email
                   </h4>
                   <p className="mt-1 text-slate-600 dark:text-slate-300">
-                    contact@amed.dev
+                    yasirakre09@gmail.com
                   </p>
                 </div>
               </div>
@@ -79,7 +78,7 @@ export function Contact() {
                     WhatsApp
                   </h4>
                   <p className="mt-1 text-slate-600 dark:text-slate-300">
-                    +964 750 XXX XXXX
+                    +964 750 853 0433
                   </p>
                 </div>
               </div>
@@ -100,7 +99,7 @@ export function Contact() {
             </div>
           </motion.div>
 
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, x: 50 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
@@ -169,7 +168,7 @@ export function Contact() {
                 Send Message <Send className="ml-2 h-4 w-4" />
               </Button>
             </form>
-          </motion.div>
+          </motion.div> */}
         </div>
       </div>
     </section>
